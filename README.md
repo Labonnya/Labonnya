@@ -25,7 +25,7 @@
 </p>
 
 <br>
-<h3>Profile Statistics:</h3>
+<h3>Profile Statistics:</h3> <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Labonnya&theme=darcula)
 
