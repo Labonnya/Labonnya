@@ -25,7 +25,7 @@
 </p>
 
 <br>
-<h3>Profile Statistics:</h3> <br>
+<h3>Profile Statistics:</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Labonnya&theme=darcula)
 
@@ -35,6 +35,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Labonnya&theme=darcula&utcOffset=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=labonnya&theme=darcula)](https://git.io/streak-stats) 
+
+<br> 
+<h3>Skills & Expertise:</h3>
 
 **📋 Lanuages:**
 
