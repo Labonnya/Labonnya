@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Labonnya</h1>
-<h3 align="center">A dynamic web and mobile app developer creating captivating digital experiences.</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Web+and+Mobile+App+Developer;Creating+captivating+digital+experiences;Software+Engineering+Student+from+IIT+DU;"></a>
+</p>
 <br>
 
 - 🔭 I’m currently working on [Exclusive Education Aid](https://github.com/fuadmmnf/quiz-mobile-app)
