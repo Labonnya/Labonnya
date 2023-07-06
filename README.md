@@ -4,4 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=labonnya&theme=dark)](https://git.io/streak-stats) 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/labonnya/langs)](https://githubtrends.io)
+
+
+
