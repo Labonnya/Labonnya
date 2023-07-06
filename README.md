@@ -36,7 +36,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=labonnya&theme=darcula)](https://git.io/streak-stats) 
 
-<br> 
+
 <h3>Skills & Expertise:</h3>
 
 **📋 Lanuages:**
