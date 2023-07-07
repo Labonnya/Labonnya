@@ -6,17 +6,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23FFB74D&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Web+and+Mobile+App+Developer;Creating+captivating+digital+experiences;Software+Engineering+Student+from+IIT+DU;"></a>
 </p>
 
-- 🔭 I’m currently working on [Exclusive Education Aid](https://github.com/fuadmmnf/quiz-mobile-app)
+🔭  Currently, I am actively engaged in the development of [Exclusive Education Aid](https://github.com/fuadmmnf/quiz-mobile-app)
 
-- 🌱 I’m currently learning **Flutter, Python, Artificial Intelligence, Software Testing, Distributed System**
+🌱 My ongoing learning journey encompasses **Flutter, Artificial Intelligence and Distributed Systems**.
 
-- 👯 I’m looking to collaborate on **Web and Mobile App development projects**
+👯 I am eagerly seeking collaboration opportunities for **Web and Mobile App development projects**.
 
-- 👨‍💻 All of my projects are available at [https://labonnya.github.io/](https://labonnya.github.io/)
+💬 Feel free to reach out to me for discussions on **FastAPI, Python, Java, and JavaScript.**
 
-- 💬 Ask me about **FastAPI, Python, Java, JavaScript**
-
-- 📫 How to reach me **rupalitasnimsamad@gmail.com**
+📫 You can contact me at **rupalitasnimsamad@gmail.com.**
 <br>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
