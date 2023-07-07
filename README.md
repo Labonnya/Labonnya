@@ -15,7 +15,7 @@
 💬 Feel free to reach out to me for discussions on **FastAPI, Python, Java, and JavaScript.**
 
 📫 You can contact me at **rupalitasnimsamad@gmail.com.**
-<br>
+<br> <br>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/rupali-tasnim-samad-7784931b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupali-tasnim-samad-7784931b7" height="30" width="40" /></a>
