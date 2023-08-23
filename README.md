@@ -12,7 +12,7 @@
 
 👯 I am eagerly seeking collaboration opportunities for **Web and Mobile App development projects**.
 
-💬 Feel free to reach out to me for discussions on **FastAPI, Python, Java, and JavaScript.**
+💬 Feel free to reach out to me for discussions on **Flutter, FastAPI, Python, Java, and JavaScript.**
 
 📫 You can contact me at **rupalitasnimsamad@gmail.com.**
 <br> <br>
